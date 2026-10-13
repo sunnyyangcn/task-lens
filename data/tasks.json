@@ -1,0 +1,6 @@
+[
+  { "title": "Review project requirements", "status": "done" },
+  { "title": "Build task summary CLI", "status": "doing" },
+  { "title": "Write usage documentation", "status": "todo" },
+  { "title": "Add automated tests", "status": "todo" }
+]
